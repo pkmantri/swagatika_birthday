@@ -213,7 +213,7 @@ const MASTER_TL = timeline({
   onComplete: () => {
   delayedCall(2, RESET);
   BTN.removeAttribute('disabled');
-  alert("🎉 Happy Birthday BANDARIA KAHI KI😝!CHUDAIL KAHIKI😝! ALWAYAS KEEP SMILING... AND THODA BAAT BHI KAR LIYA KARO... BAS 2 BAR HI AAPKI VOICE SUNA HAI MENA ...  ")
+  alert("🎉 Happy Birthday BANDARIA KAHI KI😝!CHUDAIL KAHIKI😝! ALWAYAS KEEP SMILING... AND THODA BAAT BHI KAR LIYA KARO... BAS 4 BAR HI AAPKI VOICE SUNA HAI MENA ...  ")
 },
 
   paused: true }).
